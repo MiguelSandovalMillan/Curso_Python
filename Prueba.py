@@ -1,0 +1,1 @@
+print("Trabajo en equipo")
